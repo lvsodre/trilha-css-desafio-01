@@ -1,22 +1,65 @@
-# Desafio 01: Criando sua primeira Landing Page com HTML e CSS
+# 🚀 Trilha de CSS - DIO
 
-Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
-as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
+![Trilha CSS DIO](assets/images/logo.png)
 
-[Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
+## 👋 Olá!
 
-![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
+Bem-vindo ao projeto da Landing Page da Trilha de CSS da DIO! Desenvolvi este site como parte do meu aprendizado na plataforma.
 
-Para você realizar o desafio, basta fazer um **fork** para o seu GitHub e começar a mexer no projeto.
-Dentro da pasta *main*, você vai encontrar todas as imagens e o arquivo HTML, contendo a estrutura básica da sua página, faltando apenas
-realizar a estilização da sua página. É necessário que você faça toda a parte responsável por interligar sua página HTML com suas folhas
-de estilo para que o resultado da estilização funcione.
+## 💻 Sobre o Projeto
 
-[Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio para
-que você possa se basear.
+Esta é uma landing page moderna que apresenta a Trilha de CSS da Digital Innovation One. O design combina um tema escuro com elementos em azul neon, criando uma experiência visual atraente para os usuários.
 
-*Observações: para aplicar os textos em gradiente, utilize a propriedade CSS background-clip, porém, para funcionar em alguns navegadores,
-é necessário utilizar a propriedade -webkit-background-clip: text;*
+## 🛠️ Tecnologias
 
-Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
-utilizando o comando `git checkout final` no seu terminal.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## ✨ Destaques
+
+- 🌙 Design dark theme com detalhes em azul neon
+- 🖱️ Animações suaves nos botões e módulos
+- 📱 Layout totalmente responsivo
+- 🖼️ Background fixo na seção "Transforme o mundo"
+- 🎨 Uso de variáveis CSS para facilitar personalização
+
+## 📂 Estrutura do Projeto
+
+```
+trilha-css-dio/
+│
+├── index.html          # Página principal
+├── styles.css          # Estilos do site
+├── README.md           # Você está aqui! 😉
+└── assets/
+    └── images/         # Todas as imagens usadas
+```
+
+## 🚀 Como Executar
+
+1. Clone este repositório
+   ```
+   git clone https://github.com/lvsodre/trilha-css-dio.git
+   ```
+2. Abra o arquivo `index.html` no seu navegador favorito
+3. Explore e divirta-se! 🎉
+
+## 👀 Preview
+
+O site é dividido em:
+- Header com banner principal chamativo
+- Seção "O que vou aprender?" com os módulos do curso
+- Seção parallax "Transforme o mundo com a gente"
+- Seção de desafios profissionais
+- Footer com link para a plataforma
+
+## 👨‍💻 Autor
+
+Desenvolvido com 💙 por **Leandro Venturini Sodré**
+
+- [![GitHub](https://img.shields.io/badge/GitHub-lvsodre-181717?style=flat&logo=github)](https://github.com/lvsodre)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-lvsodre-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/lvsodre)
+
+---
+
+✨ Obrigado por visitar o projeto! Se tiver sugestões ou quiser trocar ideias, fique à vontade para abrir uma issue ou me contatar. ✨
